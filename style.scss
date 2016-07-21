@@ -253,7 +253,6 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
@@ -312,6 +311,11 @@ footer {
 		margin-top: 10px !important;
 		display: inline;
 	}
+}
+
+//post width 
+.post {
+	width: 650px !important;
 }
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
