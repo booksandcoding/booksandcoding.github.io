@@ -58,7 +58,10 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 20px;
+  font-family: $mainFont;
+  color: 20px;
+  text-transform: lowercase;
 }
 
 h3 {
