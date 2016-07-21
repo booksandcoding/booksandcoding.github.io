@@ -287,7 +287,11 @@ nav {
   margin-top: 50px;
   background-color: $mainColor;
   font-family: $mainFont;
-  color: #ffffff;
+  
+  p, a {
+  	color: #ffffff;
+  }
+  
 }
 
 footer {
