@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: My Favourite Sci Fi Books of 2016 (So Far)
 tag: discussion
 ---
 
-<p>{{ site.arc }}</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vehicula ex metus, vitae elementum enim dignissim volutpat. Aenean vestibulum pretium lacus, vel tempor lacus sollicitudin lobortis. Etiam diam libero, tincidunt eget eros non, ultrices pharetra nisi. Morbi sit amet urna lacus. <a href="#">about me</a> Duis non lorem diam. Phasellus in tempor tellus. Suspendisse sed fermentum quam. Etiam hendrerit, massa vitae feugiat vehicula, ex dui euismod ex, a commodo orci metus ut ligula. Aliquam eu eros nulla. Cras faucibus semper feugiat.
 
 Mauris justo augue, blandit ut semper eu, accumsan et elit. Praesent ullamcorper venenatis enim sagittis volutpat. Pellentesque a rhoncus sem. Donec sed scelerisque urna. Aenean vulputate, lacus vitae venenatis tincidunt, nisi neque ultricies nibh, sit amet tempus erat risus a ante. Pellentesque congue enim eu efficitur egestas. Ut pretium lectus id elit lobortis, quis molestie dolor commodo. Nulla lobortis, elit et egestas efficitur, ex arcu tempor nunc, non condimentum dui neque ac lectus.
