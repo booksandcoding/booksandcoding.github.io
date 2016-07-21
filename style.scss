@@ -304,7 +304,9 @@ footer {
 
 //style social media sharing links
 .socialShare {
-	float: left;
+	text-align: center;
+	color: #949494;
+	font-family: $mainFont;
 	a {
 		margin: 5px;
 	}
