@@ -1,6 +1,7 @@
-title: Month Favourite (July)
+---
 layout: post
-tag: books
+title: Monthly Favourite (of July)
+tag: discussion
 ---
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vehicula ex metus, vitae elementum enim dignissim volutpat. Aenean vestibulum pretium lacus, vel tempor lacus sollicitudin lobortis. Etiam diam libero, tincidunt eget eros non, ultrices pharetra nisi. Morbi sit amet urna lacus. <a href="#">about me</a> Duis non lorem diam. Phasellus in tempor tellus. Suspendisse sed fermentum quam. Etiam hendrerit, massa vitae feugiat vehicula, ex dui euismod ex, a commodo orci metus ut ligula. Aliquam eu eros nulla. Cras faucibus semper feugiat.
