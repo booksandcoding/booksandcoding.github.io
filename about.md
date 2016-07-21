@@ -12,4 +12,4 @@ permalink: /about/
 <br />
 <p>I live in England with my dog who doesn't want to be named (he's shy) and am fiercly anti-tory and anti-coffee cake. I don't like olives - that's not relevant but I thought you should know.</p>
 <br />
-You can find me on <a href="#">Twitter</a>, <a href="">Instagram</a> and <a href="">Pinterest</a>. If you want to make me extremely happy you can also sign up to my <a href="">mailing list</a>.
+You can find me on <a href="{{ site.twitter }}">Twitter</a>, <a href="">Instagram</a> and <a href="">Pinterest</a>. If you want to make me extremely happy you can also sign up to my <a href="">mailing list</a>.
