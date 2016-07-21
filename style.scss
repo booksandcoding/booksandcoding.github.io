@@ -307,10 +307,10 @@ footer {
 	text-align: center;
 	color: #949494;
 	font-family: $mainFont;
-	margin-top: 10px;
-	display: inline;
 	a {
 		margin: 5px;
+		margin-top: 10px !important;
+		display: inline;
 	}
 }
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
