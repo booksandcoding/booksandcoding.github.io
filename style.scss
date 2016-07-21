@@ -71,6 +71,10 @@ h4 {
 
 p {
   margin: 15px 0;
+  font-family: $mainFont;
+  font-size: 15px;
+  line-height: 23px;
+  color: #4e4334;
 }
 
 a {
@@ -120,6 +124,7 @@ img {
   max-width: none;
 }
 
+//styles date and author beneath title
 .date {
   font-style: none;
   color: #949494;
@@ -276,10 +281,6 @@ nav {
     margin-top: 10px;
   }
 
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
-  }
 }
 
 .wrapper-footer {
