@@ -71,6 +71,3 @@ exclude:
 
 arc: I received this book for free from the publisher in return for an honest review.
 
-def square (a, b) 
-a * b
-end
