@@ -124,10 +124,11 @@ img {
   font-style: none;
   color: #949494;
   text-align: center;
-  font-size: 13px;
+  font-size: 14px;
   font-family: $mainFont;
   text-transform: lowercase;
   letter-spacing: 1.5px;
+  margin-bottom: 20px;
 }
 
 // Specify the color of the selection
@@ -283,9 +284,9 @@ nav {
 
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $mainColor;
+  font-family: $mainFont;
+  color: #ffffff;
 }
 
 footer {
