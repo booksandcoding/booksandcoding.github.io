@@ -178,7 +178,6 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -243,10 +242,11 @@ nav {
     font-weight: 200;
     letter-spacing: 1px;
     text-transform: lowercase;
+    font-style: normal;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: $mainColor;
     }
   }
 }
@@ -292,13 +292,13 @@ nav {
 }
 
 footer {
-  padding: 20px 0;
   text-align: center;
 }
 
 //stye social media links in footer
 .socialMedia {
 	letter-spacing: 1.5;
+	padding: 20px;
 	
 	a {
 		margin: 5px;
@@ -320,6 +320,10 @@ footer {
 //post width 
 .post {
 	width: 650px !important;
+	
+	@include mobile {
+		width: 90%;
+	}
 }
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
