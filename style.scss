@@ -293,9 +293,18 @@ footer {
   text-align: center;
 }
 
+//stye social media links in footer
 .socialMedia {
 	letter-spacing: 1.5;
 	
+	a {
+		margin: 5px;
+	}
+}
+
+//style social media sharing links
+.socialShare {
+	float: left;
 	a {
 		margin: 5px;
 	}
