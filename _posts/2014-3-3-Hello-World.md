@@ -1,6 +1,7 @@
 ---
 layout: post
 title: You're up and running!
+tag: discussion
 ---
 
 <p>{{ site.arc }}</p>
