@@ -69,8 +69,8 @@ exclude:
   - README.md
   - CNAME
 
-//arc notice to remain in FTC guidelines
-arc: I received this book for free from the publisher in return for an honest review.
+#arc notice to remain in FTC guidelines
+arc: "I received this book for free from the publisher in return for an honest review."
 
-//social media links
-twitter: https://twitter.com/bookmarkedblog1
+#social media links
+twitter: "https://twitter.com/bookmarkedblog1"
