@@ -1,6 +1,6 @@
 module Jekyll
   module lower
-    def multiply(content)
+    def lower(content)
       content.downcase
     end
   end
