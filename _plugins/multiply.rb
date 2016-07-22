@@ -1,9 +1,9 @@
 module Jekyll
-  module multiply
-    def multiply(a, b)
-      a * b
+  module lower
+    def multiply(content)
+      content.downcase
     end
   end
 end
 
-Liquid::Template.register_filter(Jekyll::multiply)
+Liquid::Template.register_filter(Jekyll::lower)
