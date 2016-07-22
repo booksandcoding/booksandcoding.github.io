@@ -1,6 +1,6 @@
 module Jekyll
   module lower
-    def lower(content)
+    def lower(words)
       content.downcase
     end
   end
