@@ -1,9 +1,9 @@
-module Jekyll
-  module lower
-    def lower(words)
-      words.downcase
-    end
+class QrCodeTag < Liquid::Tag
+  def initialize(a, b)
   end
-end
+  
+  def multiply () 
+    num = a * b
+  end
 
-Liquid::Template.register_filter(Jekyll::lower)
+Liquid::Template.register_tag('multiply', num)
