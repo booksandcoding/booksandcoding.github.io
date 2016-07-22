@@ -1,9 +1,9 @@
 class QrCodeTag < Liquid::Tag
-  def initialize(a, b)
+  def initialize(a)
   end
   
   def multiply () 
-    a * b
+    a * 2
   end
 
 Liquid::Template.register_tag('multiply', num)
