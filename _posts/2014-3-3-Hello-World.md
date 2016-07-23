@@ -10,6 +10,6 @@ Mauris justo augue, blandit ut semper eu, accumsan et elit. Praesent ullamcorper
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla a accumsan turpis, sit amet auctor augue. Curabitur vel semper odio, et malesuada urna. Nam eget consectetur arcu. Ut sollicitudin enim sed eros tincidunt, nec posuere mauris dapibus. Nulla rutrum, libero non fermentum vulputate, orci nunc sodales arcu, pharetra euismod leo erat in odio. Ut ac euismod purus, iaculis viverra risus. Pellentesque ultrices molestie fermentum. Donec vitae dolor ac est viverra consectetur et eget massa. Mauris eget magna et quam tempus ullamcorper. Aenean porta ligula in dictum pulvinar. Proin ac arcu at leo ultricies varius vel vitae eros.</p>
 
- {{ '*hi*' | textilize }} 
+ {{ 'George' | greeting }} 
 
 
