@@ -1,7 +1,7 @@
-module greeting
-  def greeting(name)
-    name.upcase
+module TextFilter
+  def textilize(input)
+    RedCloth.new(input).to_html
   end
 end
 
-Liquid::Template.register_filter(greeting)
+Liquid::Template.register_filter(TextFilter)
