@@ -1,7 +1,8 @@
 module TextFilter
-  def textilize(input)
-    RedCloth.new(input).to_html
+  def greeting(name)
+    words = name + "hello"
+    words.to_html
   end
 end
 
-Liquid::Template.register_filter(TextFilter)
+Liquid::Template.register_filter(greeting)
