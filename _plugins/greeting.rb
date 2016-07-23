@@ -1,6 +1,6 @@
 module greeting
   def greeting(name)
-    name.uppercase
+    name.upcase
   end
 end
 
