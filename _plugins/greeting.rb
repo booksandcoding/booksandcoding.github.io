@@ -1,7 +1,6 @@
 module TextFilter
   def greeting(name)
-    words = name + "hello"
-    words.to_html
+    name + "hello there"
   end
 end
 
