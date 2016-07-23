@@ -1,4 +1,4 @@
-module TextFilter
+module greeting
   def greeting(name)
     name + "hello there"
   end
