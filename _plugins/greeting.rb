@@ -1,6 +1,6 @@
 module TextFilter
   def textilize(input)
-    puts "hello" + input
+    input * 2
   end
 end
 
