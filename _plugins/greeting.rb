@@ -1,6 +1,6 @@
 module TextFilter
   def textilize(input)
-    RedCloth.new(input.length).to_html
+    puts "hello" + input
   end
 end
 
