@@ -1,6 +1,6 @@
 module greeting
   def greeting(name)
-    name + "hello there"
+    name.uppercase
   end
 end
 
