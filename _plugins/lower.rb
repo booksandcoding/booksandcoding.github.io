@@ -1,9 +1,7 @@
-class QrCodeTag < Liquid::Tag
-  def initialize(a)
+module lower
+  def lower(input) # will be available as the "textilize" filter
+    input.downcase
   end
-  
-  def multiply () 
-    a * 2
-  end
+end
 
-Liquid::Template.register_tag('multiply', num)
+Liquid::Template.register_filter(lower)
