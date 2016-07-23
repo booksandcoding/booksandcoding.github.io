@@ -1,9 +1,7 @@
-module Jekyll
-  module greeting
-    def (text)
-      text + "greeting"
-    end
+module TextFilter
+  def textilize(input)
+    RedCloth.new(input).to_html
   end
 end
 
-Liquid::Template.register_filter(Jekyll::greeting)
+Liquid::Template.register_filter(TextFilter)
