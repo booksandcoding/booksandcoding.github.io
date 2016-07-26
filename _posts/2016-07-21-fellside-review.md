@@ -14,6 +14,7 @@ First of all, let's just say that after The Girl With All The Gifts, I had some 
 <br />
 Let's make this clear: this isn't the Girl With All The Gifts, and I don't have a problem with that. But it just wasn't comparable to his previous work at all - it just didn't live up to my expectations.&nbsp;Instead of a thrill heavy, action-y plot - what we got was a slow burner, something that seemed to be leading up to something, but <b>never got there</b>. I don't have a problem with slower books - far from it, but I just think there's a time and place. Lots of people talk about how this <i>slow pace </i>gave a ghostly feel - but I never got that. At times, the whole thing just felt incredibly <b>tedious</b>.<br />
 <br />
+<h2>I really wanted to love this book... and I just didn't.</h2>
 That said,&nbsp;this&nbsp;was brilliantly researched, just like Girl. However, here I don't feel like it worked that well. With Girl, it fitted in seamlessly - it turned your average zombie story into something so much more. Here, though, the text either seems to be either made up of ridiculously detailed drug taking (which I didn't particularly enjoy) and a few other storylines which, as far as I can tell, did nothing for the plot. At least I <i>think</i> the drug taking was research. Either that or the author has a <b>serious</b> addiction. <br />
 <br />
 Basically, this just didn't grip me as much as I <i>wanted </i>it to. I <i>wanted </i>to love and enjoy this and fall in love with a new world and<b> that just didn't happen</b>.<br />
