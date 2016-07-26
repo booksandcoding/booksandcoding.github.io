@@ -1,8 +1,11 @@
+module Jekyll
 module MyFilters
 
   def headline(input)
     "<h2>#{input}</h2>"
   end
+
+end
 
 end
 
