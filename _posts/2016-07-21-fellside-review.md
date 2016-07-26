@@ -9,7 +9,7 @@ tag: review
 From the author of The Girl With All The Gifts (possibly one of the <b>best</b> novels I've read this year) comes Fellside (possibly one of the most <b>annoying</b> books I've ever read). <br />
 <a href="https://3.bp.blogspot.com/-WsJD_ceVGoo/V4EdRz0zWKI/AAAAAAAABEo/OxYqn9T7I4gpZquGi5hRs2MzhGe55ZtsQCLcB/s1600/fellside.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"></a><b></b><i></i><u></u><sub></sub><sup></sup><strike></strike><br />
 Annoying, that is, because I&nbsp;<b>really</b>&nbsp;wanted to love it. But I didn't.<br />
-<br />
+<h2>I couldn't get into the storyline.</h2>
 First of all, let's just say that after The Girl With All The Gifts, I had some really quite enormous expectations - which might be where the problem lies. After reading his previous book in one (maybe two) sittings, it shocked me so much that I <i>didn't like this that much</i>.<br />
 <br />
 Let's make this clear: this isn't the Girl With All The Gifts, and I don't have a problem with that. But it just wasn't comparable to his previous work at all - it just didn't live up to my expectations.&nbsp;Instead of a thrill heavy, action-y plot - what we got was a slow burner, something that seemed to be leading up to something, but <b>never got there</b>. I don't have a problem with slower books - far from it, but I just think there's a time and place. Lots of people talk about how this <i>slow pace </i>gave a ghostly feel - but I never got that. At times, the whole thing just felt incredibly <b>tedious</b>.<br />
