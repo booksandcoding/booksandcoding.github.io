@@ -10,8 +10,9 @@ I like the Harry Potter books. I <i>love </i>the Harry Potter books. They first 
 <br />
 I don't have a problem with scripts. In fact, some of my favourite books are playscripts. I realise there probably won't be the same feeling to it - but I <i>really want to enjoy it</i>. I'm just worried that this might the book/play where J.K.Rowling fucks up. (And that's not mentioning the fact that most of it <b>isn't</b>&nbsp;written by Rowling herself).<br />
 <br />
-&nbsp;Is it going to be as good as the Harry Potter series? Is it going to be able to introduce a whole new generation to reading? (Probably not - the book is just a script). Or is this brilliant world that I've been wanting to join for most of life suddenly going to come crashing down? Is the whole thing just going to feel like a money-making scheme, capitalizing on the popularity of the original series?<i>Because it feels a bit like that.&nbsp;</i><br />
+&nbsp;Is it going to be as good as the Harry Potter series? Is it going to be able to introduce a whole new generation to reading? (Probably not - the book is just a script). Or is this brilliant world that I've been wanting to join for most of life suddenly going to come crashing down? Is the whole thing just going to feel like a money-making scheme, capitalizing on the popularity of the original series? <i>Because it feels a bit like that.&nbsp;</i><br />
 <br />
+<h2>Have you seen the play? Nervous for the release? Please, no spoilers.</h2>
 
 
 
