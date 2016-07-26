@@ -1,7 +1,7 @@
 module MyFilters
 
   def headline(input)
-    "<h1>#{input}</h1>"
+    "<h2>#{input}</h2>"
   end
 
 end
