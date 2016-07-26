@@ -1,0 +1,9 @@
+module MyFilters
+
+  def headline(input)
+    "<h1>#{input}</h1>"
+  end
+
+end
+
+Liquid::Template.register_filter(Jekyll::MyFilters)
