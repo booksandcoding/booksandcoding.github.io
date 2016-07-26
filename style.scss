@@ -339,13 +339,14 @@ footer {
 //style read more
 .read {
 	text-align: center;
-	.a {
+}
+
+.read .a {
 		text-transform: uppercase;
 		border-left, border-right: 10px;
 		border-top, border-bottom: 5px;
 		font-style: none;
 	}
-}
 
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
