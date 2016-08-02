@@ -70,11 +70,11 @@ h2 {
 }
 
 h3 {
-  font-size: 23px;
-  font-family: $mainFont;
-  color: $mainColor;
-  text-transform: lowercase;
-  font-weight: 200;
+  font-size: 23px !important;
+  font-family: $mainFont !important;
+  color: $mainColor !important;
+  text-transform: lowercase !important;
+  font-weight: 200 !important;
 }
 
 h4 {
