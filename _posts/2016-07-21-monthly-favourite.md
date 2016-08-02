@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Monthly Favourite (of July)
+title: My Thoughts on Cursed Child (Spoilers)
 tag: discussion
 ---
 
