@@ -27,7 +27,7 @@ On the subject of Delphi, I thought her character development was non-existent, 
 <br />
 Some say that they would have preferred Voldemort to have been left out entirely, and I sort of agree. Bringing him back did seem very obvious. I was sort of &nbsp;hoping for a new plot line altogether. However it <i>was </i>good to see the aftermath of the war e.t.c and how the ministry was handling it, even if it was only mentioned briefly.<br />
 <h4>
-Scorpius and Draco - I enjoyed their relationship.</h4>
+Scorpius and Draco - I enjoyed their relationship immensly, and thought it was the best part of a bad script.</h4>
 I think the best part of the script. Or at least the best part of a bad bunch. Scorpius and Draco - unlike pretty much any other character - were pretty well developed, and I enjoyed seeing their relationship. I also enjoyed Scorpius and Draco's relationship and how <i>that </i>developed, over the course of what-wasn't-really-a-plot-but-an-excuse-to-make-money. Ahem. Scorpius stole the show, basically.<br />
 <br />
 I also sort of enjoyed the relationship between Albus and Harry - and I liked how maybe their relationship is bad. Almost every other character I felt was undeveloped. Scenes seemed to go by very quickly, and speech didn't flow brilliantly. Ugh.<br />
