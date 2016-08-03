@@ -46,4 +46,4 @@ I'm now going to go and hide in a hole and avoid all those Potterheads who will 
 Have you read the script / seen the play? What did you think?</div>
 </h4>
 
-
+{{ "hello world" | MyFilters }}
