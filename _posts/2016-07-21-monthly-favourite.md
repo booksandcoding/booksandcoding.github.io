@@ -40,10 +40,7 @@ Basically, I thought the plot was too predictable. In fact, there was hardly a p
 <br />
 I'm now going to go and hide in a hole and avoid all those Potterheads who will now be searching for me with pitchforks.<br />
 <h4>
-<div style="text-align: center;">
-<br /></div>
+<div style="text-align: center;"></div>
 <div style="text-align: center;">
 Have you read the script / seen the play? What did you think?</div>
 </h4>
-
-{{ "hello world" | MyFilters }}
