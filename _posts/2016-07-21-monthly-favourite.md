@@ -2,8 +2,8 @@
 layout: post
 title: My Thoughts on Cursed Child (Spoilers)
 tag: discussion
-author: j.k.rowling
-book: Harry Potter and the Cursed Child
+book_author: j.k.rowling
+book_title: Harry Potter and the Cursed Child
 ---
 
 This post contains spoilers. THIS POST CONTAINS SPOILERS. THIS POST CONTAINS SPOILERS. THIS POST CONTAINS SPOILERS. THIS POST CONTAINS SPOILERS. THIS POST CONTAINS SPOILERS. THIS POST CONTAINS SPOILERS. THIS POST CONTAINS SPOILERS.<br />
