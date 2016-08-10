@@ -75,7 +75,5 @@ arc: "I received this book for free from the publisher in return for an honest r
 #social media links
 twitter: "https://twitter.com/bookmarkedblog1"
 
-#paginate
-paginate: 1
-
+helpme: curl "https://www.goodreads.com/search.xml?key=YOUR_KEY&q=Ender%27s+Game"
 
