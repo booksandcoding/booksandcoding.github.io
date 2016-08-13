@@ -11,7 +11,13 @@ layout: default
     (on {{ post.date | date: "%B %e, %Y" }} / by harvey richards)
   </div>
 
-{{ post.content }}
+<div class="excerpt">
+{{ post.excerpt }}
+</div>
+
+<div class="read me">
+  <a href="{{ site.baseurl }}{{ post.url }}">read me</a>
+</div>
 
     </article>
   {% endfor %}
