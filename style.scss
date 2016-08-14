@@ -352,14 +352,10 @@ footer {
 	height: 30px;
 	width: 100px;
 	margin: 0 auto;
+	padding: 100%;
 }
 
 .readme a {
-	border: 2px solid $mainColor;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	padding-left: 5px;
-	padding-right: 5px;
 	text-decoration: none;
 	color: #ffffff;
 	text-decoration: none !important;
