@@ -347,12 +347,12 @@ footer {
 //style read me link
 .readme {
 	text-align: center;
-	background-color: $mainColor;
-	max-width: 50%;
+	margin-top: 10px;
 }
 
 .readme a {
 	color: #ffffff;
+	background-color: $mainColor;
 	text-decoration: none !important;
 	font-style: normal !important;
 	padding-top: 20px;
