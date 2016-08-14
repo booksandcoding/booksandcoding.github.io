@@ -348,6 +348,7 @@ footer {
 .readme {
 	text-align: center;
 	background-color: $mainColor;	
+	display: block;
 }
 
 .readme a {
@@ -359,6 +360,8 @@ footer {
 	text-decoration: none;
 	width: 30px;
 	color: #ffffff;
+	height: 20px;
+	text-decoration: none;
 		 
 }
 
