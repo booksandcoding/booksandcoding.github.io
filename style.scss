@@ -344,6 +344,17 @@ footer {
 	}
 }
 
+//style read me link
+.readme {
+	text-align: center;
+	a {
+		border: 1px solid $mainColour;
+		padding-top, padding-bottom: 10px;
+		padding-left, padding-right: 5px;
+		background-color: $mainColour;
+		
+	}
+}
 
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
