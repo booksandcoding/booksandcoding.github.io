@@ -2,18 +2,30 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-          <div class="date">
-    (on {{ post.date | date: "%B %e, %Y" }} / by harvey richards)
-  </div>
-
-<div class="excerpt">
-{{ post.excerpt }}
-</div>
+<ul id="posts">
+    {% for post in paginator.posts %}
+ <a href="{{ post.url }}">
+    <li>
+      <div>
+        {% assign foundImage = 0 %}
+          {% assign images = post.content | split:"<img " %}
+              {% for image in images %}
+                {% if image contains 'src' %}
+                    {% if foundImage == 0 %}
+                    {% assign html = image | split:"/>" | first %}
+                    <time>{{ post.date | date:"%d %b %Y" }}</time>
+                    <h3>{{ post.title }}</h3>
+                    <hr>
+                    <div><img width="250" {{ html }} />{{ post.desc }}</div>
+                     {% assign foundImage = 1 %}
+                    {% endif %}
+             {% endfor %}
+        </div>
+     </li>
+ </a>
+    {% endif %} 
+    {% endfor %}
+</ul>
 
 <div class="read me">
   <a href="{{ site.baseurl }}{{ post.url }}">read me</a>
