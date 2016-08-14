@@ -349,18 +349,16 @@ footer {
 	text-align: center;
 	background-color: $mainColor;	
 	display: block;
-	padding-top: 30px;
-	padding-bottom: 30px;
-	padding-left: 20px;
-	padding-right: 20px;
 	margin: 0 auto;
 }
 
 .readme a {
-	text-decoration: none;
 	color: #ffffff;
 	text-decoration: none !important;
-		 
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;	 
 }
 
 
