@@ -6,12 +6,7 @@ book_author: j.k.rowling
 book_title: Harry Potter and the Cursed Child
 ---
 
-{{page.helpme}}
 
-This post contains spoilers. THIS POST CONTAINS SPOILERS. THIS POST CONTAINS SPOILERS. THIS POST CONTAINS SPOILERS. THIS POST CONTAINS SPOILERS. THIS POST CONTAINS SPOILERS. THIS POST CONTAINS SPOILERS. THIS POST CONTAINS SPOILERS.<br />
-<br />
-Oh yeah THIS POST CONTAINS SPOILERS IF YOU HAVEN'T SEEN / READ IT RUN AWAY NOW.<br />
-<br />
 Right. Now. Well. This is awkward isn't it? Because I'm about to get very angry with the series that was BASICALLY MY CHILDHOOD.<br />
 <br />
 First of all, let's make it clear that I <b>haven't </b>seen the play - I've just read the script. Let's make it clear that, yes, I do know what a script is and <b>no </b>I wasn't expecting it to be a novel and <b>no </b>at no point was I expecting it to be anywhere near a novel. But I <b>was </b>expecting something of a coherent plot.<br />
