@@ -19,12 +19,5 @@ That said,&nbsp;this&nbsp;was brilliantly researched, just like Girl. However, h
 Basically, this just didn't grip me as much as I <i>wanted </i>it to. I <i>wanted </i>to love and enjoy this and fall in love with a new world and<b> that just didn't happen</b>.<br />
 <br />
 However, in other news, THE GIRL WITH ALL THE GIFTS TRAILER HAS BEEN RELEASED! WHOOO! As far as I can tell, it seems to follow the basic storyline pretty closely, and all the actors seem to fit the parts just as I imagined! Feast your eyes here:<br />
-<br />
-<br />
-<center>
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/HjGkB_oWTe0" width="560"></iframe></center>
-<h4 style="text-align: center;">
-<br />
-</h4>
 <h4 style="text-align: center;">
 Have you read Fellside? What about Girl?&nbsp;What did you think?</h4>
