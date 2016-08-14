@@ -7,9 +7,6 @@ layout: default
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-          <div class="date">
-    (on {{ post.date | date: "%B %e, %Y" }} / by harvey richards)
-  </div>
 
 <div class="excerpt">
 {{ post.content | strip_html | truncatewords: 75 }}
