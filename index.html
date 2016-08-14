@@ -12,7 +12,7 @@ layout: default
   </div>
 
 <div class="excerpt">
-{{ post.excerpt }}
+{{ post.content | strip_html | truncatewords: 300 }}
 </div>
 
 
