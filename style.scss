@@ -337,6 +337,11 @@ footer {
 	padding-right: 25px !important;
 	padding-top: 10px !important;
 	padding-bottom: 10px !important;
+	transition: 1s;
+}
+
+.socialShare a:hover {
+	background: #b2d4d5;
 }
 
 //post width 
