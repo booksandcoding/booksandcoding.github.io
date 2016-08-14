@@ -348,13 +348,14 @@ footer {
 .readme {
 	text-align: center;
 	background-color: $mainColour;	
-	a {
-		border: 1px solid $mainColour;
-		padding-top, padding-bottom: 10px;
-		padding-left, padding-right: 5px;
-		text-decoration: none;
+}
+
+.readme a {
+	border: 1px solid $mainColour;
+	padding-top, padding-bottom: 10px;
+	padding-left, padding-right: 5px;
+	text-decoration: none;
 		 
-	}
 }
 
 
