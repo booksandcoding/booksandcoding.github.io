@@ -347,7 +347,7 @@ footer {
 //style read me link
 .readme {
 	text-align: center;
-	margin-top: 30px;
+	margin-top: 40px;
 }
 
 .readme a {
@@ -357,8 +357,13 @@ footer {
 	font-style: normal !important;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	padding-left: 25px;
-	padding-right: 25px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.readme a:hover {
+	background: #b2d4d5;
+	transition: 0.5s;
 }
 
 
