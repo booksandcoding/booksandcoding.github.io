@@ -237,8 +237,6 @@ img {
 
 nav {
 	display: block;
-	margin: 0 auto;
-	text-align: center;
 	margin-top: 23px; // @TODO: Vertically middle align
 	font-family: $mainFont;
 	font-size: 14px;
@@ -258,6 +256,7 @@ nav {
     letter-spacing: 1px;
     text-transform: lowercase;
     font-style: normal;
+    text-align: center;
 
     @include mobile {
       margin: 0 10px;
