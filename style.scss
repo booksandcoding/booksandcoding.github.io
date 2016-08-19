@@ -298,10 +298,13 @@ nav {
   margin-top: 50px;
   background-color: $mainColor;
   font-family: $mainFont;
+  position: fixed;
+  display: block;
   
   p, a {
   	color: #ffffff;
   	margin: 20px;
+  	text-align: center;
   }
   
 }
