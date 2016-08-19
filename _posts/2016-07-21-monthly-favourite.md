@@ -4,6 +4,11 @@ title: My Thoughts on Cursed Child (Spoilers)
 tag: discussion
 book_author: j.k.rowling
 book_title: Harry Potter and the Cursed Child
+book_publisher: Bloomsbury
+book_date: 9th September
+book_rating: 2
+book_synopsis: xxxxxxxxxxxxxx
+
 ---
 
 
