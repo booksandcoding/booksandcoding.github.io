@@ -296,6 +296,7 @@ nav {
 }
 
 .wrapper-footer {
+	width: 100%;
   
   p, a {
   	color: #ffffff;
@@ -307,12 +308,11 @@ nav {
 
 footer {
 	height: 30px;
-	  margin-top: 50px;
-  background-color: $mainColor;
-  font-family: $mainFont;
-  position: fixed;
-  display: block;
-  width: 100%;
+	margin-top: 50px;
+	background-color: $mainColor;
+	font-family: $mainFont;
+	position: fixed;
+	display: block;
 }
 
 //stye social media links in footer
