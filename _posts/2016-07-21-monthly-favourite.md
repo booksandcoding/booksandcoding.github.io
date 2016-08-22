@@ -8,6 +8,7 @@ book_publisher: Bloomsbury
 book_date: 9th September
 book_rating: 2
 book_synopsis: xxxxxxxxxxxxxx
+book_cover: http://3.bp.blogspot.com/-bcv0jfWQ1pY/Vlml-AOPvcI/AAAAAAAAA0Q/I5lwsDPs1kg/s1600/The%2Bwhite%2Brose.jpg
 
 ---
 
