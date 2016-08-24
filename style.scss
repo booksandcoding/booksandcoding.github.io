@@ -360,6 +360,11 @@ nav {
 	line-height: 24px;
 }
 
+//add border below book info
+.bookInfo {
+	border: 1px solid #949494;
+	margin: 5px;
+}
 
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
