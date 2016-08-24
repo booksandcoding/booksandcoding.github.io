@@ -7,11 +7,12 @@ book_title: Harry Potter and the Cursed Child
 book_publisher: Bloomsbury
 book_date: 9th September
 book_rating: 2
-book_synopsis: Based on an original new story by J.K. Rowling, John Tiffany and Jack Thorne, a new play by Jack Thorne, Harry Potter and the Cursed Child is the eighth story in the Harry Potter series and the first official Harry Potter story to be presented on stage. The play will receive its world premiere in London's West End on 30th July 2016.<br /><br />
+book_synopsis: Based on an original new story by J.K. Rowling, John Tiffany and Jack Thorne, a new play by Jack Thorne, Harry Potter and the Cursed Child is the eighth story in the Harry Potter series and the first official Harry Potter story to be presented on stage. The play will receive its world premiere in London's West End on 30th July 2016.
 
-It was always difficult being Harry Potter and it isn't much easier now that he is an overworked employee of the Ministry of Magic, a husband, and father of three school-age children.<br /><br />
+It was always difficult being Harry Potter and it isn't much easier now that he is an overworked employee of the Ministry of Magic, a husband, and father of three school-age children.
 
 While Harry grapples with a past that refuses to stay where it belongs, his youngest son Albus must struggle with the weight of a family legacy he never wanted. As past and present fuse ominously, both father and son learn the uncomfortable truth: sometimes, darkness comes from unexpected places.
+
 book_cover: http://3.bp.blogspot.com/-bcv0jfWQ1pY/Vlml-AOPvcI/AAAAAAAAA0Q/I5lwsDPs1kg/s1600/The%2Bwhite%2Brose.jpg
 
 ---
