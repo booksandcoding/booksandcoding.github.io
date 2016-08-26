@@ -7,7 +7,7 @@ book_title: Harry Potter and the Cursed Child
 book_publisher: Bloomsbury
 book_date: 9th September
 book_rating: 2
-book_synopsis: xxxxx
+book_synopsis: Let’s just say there’s a theme emerging here - that everybody who’s actually seen the play seems to enjoy it. So maybe you do need to see it. I’ve heard it’s got some pretty amazing tricks in it. And yeah, people are saying that you need to see it to understand it. My view is: yeah, you can have great actors and stunts and lights and whatever, but you’ve still got that story. I would say plot but to me it was nonexistent. You can roll a turd in glitter but you can’t really polish it, now, can you?
 book_cover: http://3.bp.blogspot.com/-bcv0jfWQ1pY/Vlml-AOPvcI/AAAAAAAAA0Q/I5lwsDPs1kg/s1600/The%2Bwhite%2Brose.jpg
 
 ---
