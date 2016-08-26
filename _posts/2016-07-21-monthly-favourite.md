@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Thoughts on Cursed Child (Spoilers)
-tag: discussion
+tag: review
 book_author: j.k.rowling
 book_title: Harry Potter and the Cursed Child
 book_publisher: Bloomsbury
