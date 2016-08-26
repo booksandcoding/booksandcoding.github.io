@@ -7,7 +7,7 @@ book_title: Harry Potter and the Cursed Child
 book_publisher: Bloomsbury
 book_date: 9th September
 book_rating: 2
-book_synopsis: hello my name is
+book_synopsis: <p>hello my name is</p>
 book_cover: http://3.bp.blogspot.com/-bcv0jfWQ1pY/Vlml-AOPvcI/AAAAAAAAA0Q/I5lwsDPs1kg/s1600/The%2Bwhite%2Brose.jpg
 
 ---
