@@ -7,7 +7,15 @@ book_title: Harry Potter and the Cursed Child
 book_publisher: Bloomsbury
 book_date: 9th September
 book_rating: 2
-book_synopsis: <p>But the chance to strike against such powerful enemies will be fleeting, so if she is to have her revenge, Mia must become a weapon without equal. She must prove herself against the deadliest of friends and enemies, and survive the tutelage of murderers, liars and demons at the heart of a murder cult.</p>
+book_synopsis: <p>Destined to destroy empires, Mia Corvere is only ten years old when she is given her first lesson in death.
+
+Six years later, the child raised in shadows takes her first steps towards keeping the promise she made on the day she lost everything.
+
+But the chance to strike against such powerful enemies will be fleeting, so if she is to have her revenge, Mia must become a weapon without equal. She must prove herself against the deadliest of friends and enemies, and survive the tutelage of murderers, liars and daemons at the heart of a murder cult.
+
+The Red Church is no ordinary school, but Mia is no ordinary student.
+The shadows love her.
+And they drink her fear.</p>
 book_cover: http://3.bp.blogspot.com/-bcv0jfWQ1pY/Vlml-AOPvcI/AAAAAAAAA0Q/I5lwsDPs1kg/s1600/The%2Bwhite%2Brose.jpg
 
 ---
