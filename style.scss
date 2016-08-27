@@ -365,13 +365,11 @@ nav {
 	border-bottom: 1px solid #9e9e9e;
 	padding-bottom: 15px;
 	margin-bottom: 15px;
-	.synopsis {
-		.p {
-			font-size: 18px;
-			font-style: italic;
-		}
-	}
 }
+.synopsis .p {
+	font-size: 18px !important;
+	font-style: italic !important;
+	}
 
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
