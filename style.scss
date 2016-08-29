@@ -304,23 +304,14 @@ nav {
 }
 
 .socialShare a {
-	color: #ffffff !important;
-	margin-top: 40px !important;
-	display: inline !important;
-	font-style: normal !important;
-	letter-spacing: 1.5 !important;
-	margin-left: 15px !important;
-	background: #2e2e2e !important;
-	padding-left: 25px !important;
-	padding-right: 25px !important;
-	padding-top: 10px !important;
-	padding-bottom: 10px !important;
-	transition: 1s !important;
-	letter-spacing: 1.5px !important;
+	color: #2e2e2e;
+	text-align: left;
+	font-size: 15px;
+	margin: 10px;
 }
 
 .socialShare a:hover {
-	background: #b2d4d5 !important;
+	border-bottom: 1px solid black;
 }
 
 //post width 
