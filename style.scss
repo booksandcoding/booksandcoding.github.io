@@ -380,6 +380,10 @@ footer {
 
 footer a {
 	color: #ffffff;
+	padding: 10px;
+	margin-left: 5px;
+	letter-spacing: 1px;
+	font-style: none;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
