@@ -382,8 +382,12 @@ footer a {
 	color: #ffffff;
 	padding: 10px;
 	margin-left: 5px;
-	letter-spacing: 1px;
-	font-style: none;
+	letter-spacing: 1.5px;
+	font-style: normal;
+}
+
+footer a:hover {
+	color: #ffffff;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
