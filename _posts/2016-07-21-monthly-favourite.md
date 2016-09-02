@@ -8,7 +8,7 @@ book_publisher: Bloomsbury
 book_date: 9th September
 book_rating: 2
 book_synopsis: <p>Destined to destroy empires, Mia Corvere is only ten years old when she is given her first lesson in death.<br />Six years later, the child raised in shadows takes her first steps towards keeping the promise she made on the day she lost everything.<br />But the chance to strike against such powerful enemies will be fleeting, so if she is to have her revenge, Mia must become a weapon without equal. She must prove herself against the deadliest of friends and enemies, and survive the tutelage of murderers, liars and daemons at the heart of a murder cult.<br />The Red Church is no ordinary school, but Mia is no ordinary student.<br />The shadows love her.<br />And they drink her fear.</p>
-book_cover: <a href="https://3.bp.blogspot.com/-WsJD_ceVGoo/V4EdRz0zWKI/AAAAAAAABEo/OxYqn9T7I4gpZquGi5hRs2MzhGe55ZtsQCLcB/s1600/fellside.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="400" src="https://3.bp.blogspot.com/-WsJD_ceVGoo/V4EdRz0zWKI/AAAAAAAABEo/OxYqn9T7I4gpZquGi5hRs2MzhGe55ZtsQCLcB/s400/fellside.jpg" width="260" /></a>
+book-cover: <a href="https://3.bp.blogspot.com/-WsJD_ceVGoo/V4EdRz0zWKI/AAAAAAAABEo/OxYqn9T7I4gpZquGi5hRs2MzhGe55ZtsQCLcB/s1600/fellside.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="400" src="https://3.bp.blogspot.com/-WsJD_ceVGoo/V4EdRz0zWKI/AAAAAAAABEo/OxYqn9T7I4gpZquGi5hRs2MzhGe55ZtsQCLcB/s400/fellside.jpg" width="260" /></a>
 
 ---
 
