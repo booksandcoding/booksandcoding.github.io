@@ -384,6 +384,26 @@ footer a:hover {
 	color: #d1d1d1;
 }
 
+/* Add some spacing below the email box */
+.mc-field-group {
+    margin-bottom: 5px;
+}
+
+/* Hide the label text */
+.mc-field-group label {
+    display: none;
+}
+
+/* Style the submit button */
+#mc-embedded-subscribe {
+    background: #ea672f; /* your background colour here */
+    color: white; /* your text colour here */
+    cursor: pointer;
+    display: block;
+    padding: 6px 12px; /* space between the text and the edge of the button */
+    width: 100%;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
