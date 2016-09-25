@@ -396,13 +396,14 @@ footer a:hover {
 
 /* Style the submit button */
 #mc-embedded-subscribe {
-    background: #b2d4d5; /* your background colour here */
-    color: white; /* your text colour here */
+    background: #ffffff; /* your background colour here */
+    color: $mainColor; /* your text colour here */
     cursor: pointer;
     display: block;
     padding: 6px 12px; /* space between the text and the edge of the button */
     width: 50%;
     margin: 0 auto;
+	border: none;
 }
 
 #mc_embed_signup {
