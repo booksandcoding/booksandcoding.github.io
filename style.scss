@@ -392,10 +392,10 @@ footer a:hover {
 
 // style the email submit button
 #mce-EMAIL {
-	border: none;
-	background: #ffffff;
-	color: #2e2e2e;
-	font: $mainFont;
+	border: none !important;
+	background: #ffffff !important;
+	color: #2e2e2e !important;
+	font: $mainFont !important;
 }
 
 #mc_embed_signup{
