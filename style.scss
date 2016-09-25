@@ -384,42 +384,16 @@ footer a:hover {
 	color: #d1d1d1;
 }
 
-/* Add some spacing below the email box */
-.mc-field-group {
-    margin-bottom: 5px;
-	
-}
-
-/* Hide the label text */
-.mc-field-group label {
-    display: none;
-}
 
 /* Style the submit button */
 #mc-embedded-subscribe {
-    background: #ffffff; /* your background colour here */
-    color: $mainColor; /* your text colour here */
-    cursor: pointer;
-    display: block;
-    padding: 6px 12px; /* space between the text and the edge of the button */
-    width: 50%;
-    margin: 0 auto;
-	border: none;
-	height: 25px;
 }
 
 #mc_embed_signup {
-	background: $mainColor;
-	margin-top: 30px;
 }
 
 // style the email submit button
 #mce-EMAIL {
-	margin: 0 auto;
-	width: 50%;
-	display: block;
-	border: none;
-	height: 25px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
