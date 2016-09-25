@@ -410,8 +410,17 @@ footer a:hover {
 Adapted from: http://blog.heyimcat.com/universal-signup-form/ */
 
 #mc_embed_signup form {text-align:center; padding:10px 0 10px 0;}
-.mc-field-group { display: inline-block; } /* positions input field horizontally */
-#mc_embed_signup .clear {display: inline-block;} /* positions button horizontally in line with input */
+
+.mc-field-group { 
+	display: inline-block; /* positions input field horizontally */
+	border: none;
+} 
+
+#mc_embed_signup .clear {
+	display: inline-block; /* positions button horizontally in line with input */
+}
+
+//make email signup in foote responsive
 @media (max-width: 768px) {
     #mc_embed_signup input.email {width:100%; margin-bottom:5px;}
     #mc_embed_signup .clear {display: block; width: 100% }
