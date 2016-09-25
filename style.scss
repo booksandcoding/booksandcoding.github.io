@@ -435,8 +435,8 @@ footer a:hover {
 	padding-right: 40px;
 }
 
-#mc-embedded-subscribe :hover {
-	cursor: pointer;
+#mc-embedded-subscribe:hover {
+	cursor: pointer !important;
 	font-style: italic;
 }
 
