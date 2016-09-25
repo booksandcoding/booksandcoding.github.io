@@ -370,6 +370,7 @@ footer {
 	background: #2e2e2e;
 	margin-top: 50px;
 	word-spacing: 20px;
+	margin-bottom: 10px;
 }
 
 footer a {
@@ -385,9 +386,6 @@ footer a:hover {
 }
 
 
-/* Style the submit button */
-#mc-embedded-subscribe {
-}
 
 
 // style the email submit button
@@ -405,9 +403,6 @@ footer a:hover {
 }
 
 
-
-/* MailChimp Form Embed Code - Horizontal Super Slim - 12/16/2015 v10.7
-Adapted from: http://blog.heyimcat.com/universal-signup-form/ */
 
 #mc_embed_signup form {text-align:center; padding:10px 0 10px 0;}
 
@@ -438,6 +433,11 @@ Adapted from: http://blog.heyimcat.com/universal-signup-form/ */
 	background: #ffffff;
 	padding-left: 40px;
 	padding-right: 40px;
+}
+
+#mc-embedded-subscribe :hover {
+	cursor: pointer;
+	font-style: italic;
 }
 
 	
