@@ -413,9 +413,14 @@ Adapted from: http://blog.heyimcat.com/universal-signup-form/ */
 
 .mc-field-group { 
 	display: inline-block; /* positions input field horizontally */
+} 
+
+//style imput form
+#mce-EMAIL {
 	border: none;
 	height: 25px;
-} 
+}
+	
 
 #mc_embed_signup .clear {
 	display: inline-block; /* positions button horizontally in line with input */
