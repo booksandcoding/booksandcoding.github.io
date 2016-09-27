@@ -7,7 +7,12 @@ book_title: Harry Potter and the Cursed Child
 book_publisher: Bloomsbury
 book_date: 9th September
 book_rating: 2
-book_synopsis: <p>Destined to destroy empires, Mia Corvere is only ten years old when she is given her first lesson in death.<br />Six years later, the child raised in shadows takes her first steps towards keeping the promise she made on the day she lost everything.<br />But the chance to strike against such powerful enemies will be fleeting, so if she is to have her revenge, Mia must become a weapon without equal. She must prove herself against the deadliest of friends and enemies, and survive the tutelage of murderers, liars and daemons at the heart of a murder cult.<br />The Red Church is no ordinary school, but Mia is no ordinary student.<br />The shadows love her.<br />And they drink her fear.</p>
+book_synopsis: |
+Collecting two book-length essays, A Room of One's Own and Three Guineas is Virginia Woolf's most powerful feminist writing, justifying the need for women to possess intellectual freedom and financial independence. This Penguin Modern Classics edition is edited with an introduction and notes by Michele Barrett.
+
+A Room of One's Own, based on a lecture given at Girton College, Cambridge, is one of the great feminist polemics, ranging in its themes from Jane Austen and Carlotte Brontë to the silent fate of Shakespeare's gifted (imaginary) sister and the effects of poverty and sexual constraint on female creativity.
+
+Three Guineas was published almost a decade later and breaks new ground in its discussion of men, militarism and women's attitudes towards war. These two pieces reveal Virginia Woolf's fiery spirit and sophisticated wit, and confirm her status as a highly inspirational essayist.
 book_cover: cursed-child
 ---
 
