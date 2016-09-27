@@ -9,7 +9,6 @@ book_date: 9th September
 book_rating: 2
 book_synopsis: <p>Destined to destroy empires, Mia Corvere is only ten years old when she is given her first lesson in death.<br />Six years later, the child raised in shadows takes her first steps towards keeping the promise she made on the day she lost everything.<br />But the chance to strike against such powerful enemies will be fleeting, so if she is to have her revenge, Mia must become a weapon without equal. She must prove herself against the deadliest of friends and enemies, and survive the tutelage of murderers, liars and daemons at the heart of a murder cult.<br />The Red Church is no ordinary school, but Mia is no ordinary student.<br />The shadows love her.<br />And they drink her fear.</p>
 book_cover: the-secret-agent
-hello_world: ![{{ page.book_title }}](/images/{{ page.book_cover }}.jpg "{{ page.book_title }}")
 ---
 
 
