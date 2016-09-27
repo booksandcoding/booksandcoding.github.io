@@ -360,9 +360,9 @@ nav {
 	margin-bottom: 15px;
 }
 
-.bookInfo .synopsis .p {
-	font-size: 18px !important;
-	font-style: italic !important;
+//Style book cover
+.bookInfo .bookcover {
+	float: left;
 }
 
 footer {
@@ -445,7 +445,7 @@ footer a:hover {
 	display: inline-block; /* positions button horizontally in line with input */
 }
 
-//make email signup in foote responsive
+//make email signup in footer responsive
 @media (max-width: 768px) {
     #mc_embed_signup input.email {width:100%; margin-bottom:5px;}
     #mc_embed_signup .clear {display: block; width: 100% }
