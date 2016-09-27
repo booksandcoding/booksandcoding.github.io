@@ -8,11 +8,11 @@ book_publisher: Bloomsbury
 book_date: 9th September
 book_rating: 2
 book_synopsis: |
-Collecting two book-length essays, A Room of One's Own and Three Guineas is Virginia Woolf's most powerful feminist writing, justifying the need for women to possess intellectual freedom and financial independence. This Penguin Modern Classics edition is edited with an introduction and notes by Michele Barrett.
+  Collecting two book-length essays, A Room of One's Own and Three Guineas is Virginia Woolf's most powerful feminist writing,             justifying the need for women to possess intellectual freedom and financial independence. This Penguin Modern Classics edition is       edited with an introduction and notes by Michele Barrett.
 
-A Room of One's Own, based on a lecture given at Girton College, Cambridge, is one of the great feminist polemics, ranging in its themes from Jane Austen and Carlotte Brontë to the silent fate of Shakespeare's gifted (imaginary) sister and the effects of poverty and sexual constraint on female creativity.
+  A Room of One's Own, based on a lecture given at Girton College, Cambridge, is one of the great feminist polemics, ranging in its       themes from Jane Austen and Carlotte Brontë to the silent fate of Shakespeare's gifted (imaginary) sister and the effects of poverty   and sexual constraint on female creativity.
 
-Three Guineas was published almost a decade later and breaks new ground in its discussion of men, militarism and women's attitudes towards war. These two pieces reveal Virginia Woolf's fiery spirit and sophisticated wit, and confirm her status as a highly inspirational essayist.
+  Three Guineas was published almost a decade later and breaks new ground in its discussion of men, militarism and women's attitudes       towards war. These two pieces reveal Virginia Woolf's fiery spirit and sophisticated wit, and confirm her status as a highly           inspirational essayist.
 book_cover: cursed-child
 ---
 
