@@ -8,7 +8,7 @@ book_publisher: Bloomsbury
 book_date: 9th September
 book_rating: 2
 book_synopsis: <p>Destined to destroy empires, Mia Corvere is only ten years old when she is given her first lesson in death.<br />Six years later, the child raised in shadows takes her first steps towards keeping the promise she made on the day she lost everything.<br />But the chance to strike against such powerful enemies will be fleeting, so if she is to have her revenge, Mia must become a weapon without equal. She must prove herself against the deadliest of friends and enemies, and survive the tutelage of murderers, liars and daemons at the heart of a murder cult.<br />The Red Church is no ordinary school, but Mia is no ordinary student.<br />The shadows love her.<br />And they drink her fear.</p>
-book_cover: 
+book_cover: the-secret-agent
 
 ---
 
@@ -50,4 +50,4 @@ I'm now going to go and hide in a hole and avoid all those Potterheads who will 
 Have you read the script / seen the play? What did you think?</div>
 </h4>
 
-![The Secret Agent](/images/the-secret-agent.jpg "The Secret Agent")
+
