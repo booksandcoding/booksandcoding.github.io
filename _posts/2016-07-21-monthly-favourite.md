@@ -49,3 +49,5 @@ I'm now going to go and hide in a hole and avoid all those Potterheads who will 
 <div style="text-align: center;">
 Have you read the script / seen the play? What did you think?</div>
 </h4>
+
+![the secret agent](booksandcoding.github.io/covers/the secret agent.jpg){:class="img-responsive"}
