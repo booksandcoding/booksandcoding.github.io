@@ -19,7 +19,7 @@ layout: default
       
       <div class="image">
         <!--take author and title from post details and use Google Books api to insert book image-->
-        {{ "![{{ page.book_title }}](/images/{{ page.book_cover }}.jpg "{{ page.book_title }}")" | strip_html }}
+        ![{{ page.book_title }}](/images/{{ page.book_cover }}.jpg "{{ page.book_title }}")
         
         
       </div>
