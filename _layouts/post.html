@@ -24,20 +24,16 @@ layout: default
         
       </div>
       
-      <div class="detaiButton">
-        <p>show book details</p>
-      </div>
-      
       <div class="bookDetails">
-        <!--take author and title from post details and insert name, author, publishing date and buy from amazon link =  hide this-->
         <b>title:</b> {{ page.book_title }}<br />
         <b>author:</b> {{ page.book_author}} <br />
         <b>publication date:</b> {{ page.book_date }} <br />
-        <b>rating:</b> {{ page.book_rating }}/ 5
+        <b>rating:</b> {{ page.book_rating }}/5
+
       </div>
       
       <div class="synopsis">
-        <!--take author and title from post details and use Goodreads to insert synopisis-->
+        <!--book synopsis-->
         {{ page.book_synopsis }}
         
       </div>
