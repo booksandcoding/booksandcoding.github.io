@@ -22,16 +22,13 @@ layout: default
         <img src="http://booksandcoding.github.io/images/{{ page.book_cover }}.jpg" alt="hello"/>  
       </div>
       
-      <div class="booklink">
-        <!--book link-->
-        <button>{{ page.link }}</button>
-      </div>
       
       <div class="bookDetails">
         <b>title:</b> {{ page.book_title }}<br />
         <b>author:</b> {{ page.book_author}} <br />
         <b>publication date:</b> {{ page.book_date }} <br />
         <b>rating:</b> {{ page.book_rating }}/5
+        <a href="{{ page.link }}">buy the book</a>
 
       </div>
       
