@@ -9,6 +9,7 @@ book_date: 9th September
 book_rating: 2
 book_cover: cursed-child
 link: https://www.amazon.co.uk/gp/product/0751565350/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0751565350&linkCode=as2&tag=bookmarked01-21
+book_synopsis: <p>Destined to destroy empires, Mia Corvere is only ten years old when she is given her first lesson in death.<br />Six years later, the child raised in shadows takes her first steps towards keeping the promise she made on the day she lost everything.<br />But the chance to strike against such powerful enemies will be fleeting, so if she is to have her revenge, Mia must become a weapon without equal. She must prove herself against the deadliest of friends and enemies, and survive the tutelage of murderers, liars and daemons at the heart of a murder cult.<br />The Red Church is no ordinary school, but Mia is no ordinary student.<br />The shadows love her.<br />And they drink her fear.</p> 
 
 ---
 
