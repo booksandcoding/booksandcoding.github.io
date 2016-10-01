@@ -1,3 +1,8 @@
+---
+layout: post
+title: Victober Reading list
+---
+
 Victober. Yes, that's right. An October full of Victorian fiction. It's no secret that I've been reading&nbsp;a lot of classics recently, but so far I've stayed fairly in my comfort zone i.e. anything written after Hitler. I'm not planning to read <i>lots </i>of books this October - Dickens takes quite a while to get through, and I enjoy taking my time with him. So, in the month before Donald Trump takes power like he almost certainly will and we're-all-really-fucking-screwed, here's what I'm hoping to read:<br />
 <br />
 <h4>
