@@ -10,8 +10,7 @@ book_rating: 2
 book_cover: cursed-child
 link: https://www.amazon.co.uk/gp/product/0751565350/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0751565350&linkCode=as2&tag=bookmarked01-21
 book_synopsis: |
-      Untold Stories contains significant previously unpublished work, including a poignant memoir of his family and of growing up in     Leeds, together with his much celebrated diary for the years 1996-2004, and numerous other exceptional essays, reviews and comic          pieces. Bennett, as always, is both amusing and poignant, whether he's discussing his modest childhood or his work with figures     such as Maggie Smith, Thora Hird and John Gielgud.
-     <br /><br /> 
+      Untold Stories contains significant previously unpublished work, including a poignant memoir of his family and of growing up in     Leeds, together with his much celebrated diary for the years 1996-2004, and numerous other exceptional essays, reviews and comic          pieces. Bennett, as always, is both amusing and poignant, whether he's discussing his modest childhood or his work with figures     such as Maggie Smith, Thora Hird and John Gielgud. {{ site.arc }}
       Since the success of Beyond the Fringe in the 1960s Alan Bennett has delighted audiences worldwide with his gentle humour and wry   observations about life. His many works include Forty Years On, The Lady in the Van, Talking Heads, A Question of Attribution and The     Madness of King George. The History Boys opened to great acclaim at the National in 2004, and is winner of the Evening Standard           Award, the South Bank Award and the Critics' Circle Award for Best New Play.
 ---
 
