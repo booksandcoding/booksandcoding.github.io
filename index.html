@@ -12,7 +12,11 @@ layout: default
 {{ post.content | strip_html | truncatewords: 100 }}
 </div>
 
+<div class="readme">
 
+  <a href="{{ site.baseurl }}{{ post.url }}">read more</a>
+
+</div>
 
     </article>
   {% endfor %}
