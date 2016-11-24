@@ -50,13 +50,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 25px;
+  font-size: 40px;
   font-family: $mainFont;
   color: #2e2e2e;
   font-weight: 200;
-  text-align: center;
   text-transform: lowercase;
   letter-spacing: 1.5px;
+	margin-left: -10px
   a {
     color: inherit;
     font-style: normal;
