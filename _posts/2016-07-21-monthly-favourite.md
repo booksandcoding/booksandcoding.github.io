@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Thoughts on Cursed Child (Spoilers)
+title: My Thoughts on Harry Potter and the Cursed Child by J.K.Rolwing (Spoilers)
 tag: review
 book_author: j.k.rowling
 book_title: Harry Potter and the Cursed Child
