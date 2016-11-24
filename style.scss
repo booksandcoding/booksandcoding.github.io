@@ -1,4 +1,4 @@
----
+2---
 ---
 
 //
@@ -54,7 +54,7 @@ h1 {
   font-weight: 200;
   text-transform: lowercase;
   letter-spacing: 1.5px;
-  margin-left: -10px;
+  margin-left: -20px;
   a {
     color: inherit;
     font-style: normal;
@@ -146,13 +146,13 @@ img {
 .date {
   font-style: none;
   color: #949494;
-  text-align: center;
+  text-align: left;
   font-size: 14px;
   font-family: $mainFont;
   text-transform: lowercase;
   letter-spacing: 1.5px;
   margin-bottom: 30px;
-  margin-top: -10px;
+  margin-left: -20px;
 }
 
 // Specify the color of the selection
