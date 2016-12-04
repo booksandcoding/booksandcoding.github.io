@@ -205,7 +205,8 @@ img {
 
   @include mobile {
     float: none;
-    display: block;
+
+	  display: block;
     margin: 0 auto;
   }
 
@@ -232,12 +233,12 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+	display: none;
 }
 
 
 nav {
-	display: block;
-	margin-top: 15px; // @TODO: Vertically middle align
+	display: block; // @TODO: Vertically middle align
 	font-family: $mainFont;
 	font-size: 14px;
 	text-align: center;
