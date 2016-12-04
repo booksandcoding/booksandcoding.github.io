@@ -17,17 +17,19 @@
   </head>
 
   <body>
-    
+          
+	<nav>
+            <a href="{{ site.baseurl }}/">Blog</a>
+            <a href="{{ site.baseurl }}/about">About</a>
+            <a href="{{ site.baseurl }}/contact">Contact</a>
+          </nav>
+	 
+
     <div class="logo">
       <!--logo-->
 	    <h1>bookmarked.</h1>
     </div>
 	  
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-            <a href="{{ site.baseurl }}/contact">Contact</a>
-          </nav>
 
     <div id="main" role="main" class="container">
       {{ content }}
