@@ -260,6 +260,8 @@ nav {
     letter-spacing: 1px;
     text-transform: lowercase;
     font-style: normal;
+	  padding-top: 10px;
+	  padding-bottom: 10px;
 
     @include mobile {
       margin: 0 10px;
