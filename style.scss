@@ -63,18 +63,18 @@ h1 {
 }
 
 h2 {
-  font-size: 23px;
+  font-size: 25px;
   font-family: $mainFont;
   color: $mainColor;
-  text-transform: lowercase;
+  text-transform: capitalize;
   font-weight: 200;
 }
 
 h3 {
-  font-size: 23px;
+  font-size: 25px;
   font-family: $mainFont;
   color: $mainColor;
-  text-transform: lowercase;
+  text-transform: capitalize;
   font-weight: 200;
 }
 
@@ -82,7 +82,7 @@ h4 {
   font-size: 23px;
   font-family: $mainFont;
   color: $mainColor;
-  text-transform: lowercase;
+  text-transform: capitalize;
   font-weight: 200;
   line-height: 48px;
 }
