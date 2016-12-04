@@ -327,6 +327,7 @@ nav {
 .readme {
 	text-align: center;
 	margin-top: 35px;
+	width: 100%;
 }
 
 .readme a {
@@ -345,7 +346,8 @@ nav {
 }
 
 .readme a:hover {
-	background: #b2d4d5;
+	background: $mainColor;
+	color: #ffffff;
 }
 
 //style excerpt
