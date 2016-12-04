@@ -282,7 +282,8 @@ nav {
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
-    padding: 0.1em 1em;
+
+	  padding: 0.1em 1em;
     color: $gray;
     font-size: 22px;
     font-style: italic;
@@ -329,6 +330,7 @@ nav {
 	margin-top: 35px;
 	width: 100%;
 	display: block;
+	min-width: 700px;
 }
 
 .readme a {
