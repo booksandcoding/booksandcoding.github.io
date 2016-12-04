@@ -327,12 +327,11 @@ nav {
 .readme {
 	text-align: center;
 	margin-top: 35px;
-	display: none;
 }
 
 .readme a {
-	color: #ffffff;
-	background-color: $mainColor;
+	color: $mainColor;
+	background-color: #ffffff;
 	text-decoration: none !important;
 	font-style: normal !important;
 	padding-top: 10px;
@@ -341,6 +340,8 @@ nav {
 	padding-right: 30px;
 	letter-spacing: 1.5px;
 	transition: 0.5s;
+	width: 100%;
+	border: 1px solid $mainColor;
 }
 
 .readme a:hover {
