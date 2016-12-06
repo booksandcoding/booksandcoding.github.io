@@ -239,14 +239,14 @@ img {
 
 nav {
 	display: block; // @TODO: Vertically middle align
-	font-family: 'Josefin Sans';
+	font-family: 'osefin Sans';
 	font-size: 14px;
 	text-align: center;
 	width: 100%;
 	background: #fff;
  	padding-top: 20px;
 	padding-bottom: 20px;
-	border-bottom: 1px #9e9e9e;
+	border-bottom: 1px solid #9e9e9e;
 
   @include mobile {
     float: none;
@@ -258,7 +258,7 @@ nav {
   a {
     margin-left: 7px;
 	  margin-right: 7px;
-    color: #ffffff;
+    color: #2e2e2e;
     font-weight: 200;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -274,7 +274,7 @@ nav {
 }
 
 .logo {
-	font-family: "josefin sans";
+	font-family: "Josefin Sans";
 }
 //
 // .main
