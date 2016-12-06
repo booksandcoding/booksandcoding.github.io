@@ -229,21 +229,24 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: 'Josefin sans';
   font-weight: 300;
   font-size: 28px;
-  letter-spacing: 1px;
+  letter-spacing: 1px;	
 	display: none;
 }
 
 
 nav {
 	display: block; // @TODO: Vertically middle align
-	font-family: $mainFont;
+	font-family: 'Josefin Sans';
 	font-size: 14px;
 	text-align: center;
 	width: 100%;
-	background: $mainColor;
+	background: #fff;
+ 	padding-top: 20px;
+	padding-bottom: 20px;
+	border-bottom: 1px #9e9e9e;
 
   @include mobile {
     float: none;
@@ -258,7 +261,7 @@ nav {
     color: #ffffff;
     font-weight: 200;
     letter-spacing: 1px;
-    text-transform: lowercase;
+    text-transform: uppercase;
     font-style: normal;
 	  padding-top: 10px;
 	  padding-bottom: 10px;
@@ -271,7 +274,7 @@ nav {
 }
 
 .logo {
-	display: none;
+	font-family: "josefin sans";
 }
 //
 // .main
